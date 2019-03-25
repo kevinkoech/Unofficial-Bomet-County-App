@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bomet County</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">UNOFFICIAL APP</string>
+    <string name="slide_1_desc">By Kevin Koech! 0728698353</string>
+
+    <string name="slide_2_title">DR.JOYCE LABOSO</string>
+    <string name="slide_2_desc">EGH,Former Deputy Speaker of National Assembly!</string>
+
+    <string name="slide_3_title">Dr.CHRISTOPHER LANGAT</string>
+    <string name="slide_3_desc">Professional Mentor,Public Speaker,Senior Lecturer Moi University!</string>
+
+    <string name="slide_4_title">H.E ISAAC RUTOIH</string>
+    <string name="slide_4_desc">1st Council Of Governors(COG) Chairman and 1st Governor!</string>
+
+    <string name="slide_5_title">PROF.WILFRED LESSAN</string>
+    <string name="slide_5_desc">1st Senator!</string>
+
+
+    <string name="play_again_desc">To see the welcome slider again, go to Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
